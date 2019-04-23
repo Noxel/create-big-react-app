@@ -1,4 +1,6 @@
 
+NodeJS command-line interfaces for start react project with template
+
 ## Available Scripts
 
 ### `npm i -g create-big-react-app`
