@@ -1,6 +1,6 @@
 {
   "name": "create-big-react-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate a template for react with Redux, React-router, Material-ui and Eslint",
   "bin": {
     "create-big-react-app": "./index.js"
