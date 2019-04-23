@@ -1,9 +1,13 @@
 {
   "name": "create-big-react-app",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generate a template for react with Redux, React-router, Material-ui and Eslint",
   "bin": {
     "create-big-react-app": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Noxel/create-big-react-app.git"
   },
   "author": "Nokxs",
   "license": "MIT",
